@@ -12,9 +12,23 @@ import os
 import sys
 
 ENTRY = (
-    "The printer only jams on the page I actually need, "
-    "so now I print the wrong page first as a decoy."
+    "The office plant died, so HR sent a sympathy card "
+    "signed by all 12 of us who forgot to water it."
 )
+
+# Revisi resubmit sweep 25 Nov 2026 (playbook winner-study-20261125 §7B,
+# pola pemenang joke-demo: 1 mekanisme + 3 ketukan + angka spesifik,
+# median pemenang joke 90-190 karakter).
+# Entry lama (printer decoy, 98 karakter) GAGAL 2 kriteria: (5) kesegaran
+# juri — "printer hanya macet di halaman penting" adalah premis stok
+# lelucon kantor yang paling umum; dan pola §3d — tanpa angka/artefak
+# spesifik. Entry baru: 1 mekanisme (kartu simpati HR), 3 ketukan
+# (tanaman mati -> HR kirim kartu -> ditandatangani 12 pelakunya),
+# angka spesifik (12), punch di kata-kata terakhir.
+# Draf yang ditolak: "I replied-all 'Thanks!' to 312 people just to prove
+# the button still works." (premis reply-all stok, motif segar tapi
+# premisnya umum); "My boss calls it 'a quick chat', which is office for
+# a 45-minute meeting with no agenda." (trope "quick chat" sudah dikenal).
 
 MIN_CHARS = 1
 MAX_CHARS = 199
